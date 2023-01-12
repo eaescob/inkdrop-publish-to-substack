@@ -1,2 +1,2 @@
 # inkdrop-publish-to-substack
-Publish to Substack from Inkdrop
+Convert Inkdrop list items into TODO items
